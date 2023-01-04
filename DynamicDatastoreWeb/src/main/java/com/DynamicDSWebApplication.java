@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DynamicDSApplication {
+public class DynamicDSWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DynamicDSApplication.class, args);
+		SpringApplication.run(DynamicDSWebApplication.class, args);
 	}
 
 }
